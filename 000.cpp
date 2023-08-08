@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main(){
     int a[100001] = {0, 10};
     int n; cin >> n;
